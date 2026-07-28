@@ -1,0 +1,9 @@
+.env
+.codex-node/
+.codex-logs/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+node_modules/
+board2learn_study_guide.md
